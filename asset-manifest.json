@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iagon/static/css/main.55a43b86.chunk.css",
-    "main.js": "/iagon/static/js/main.99f70cde.chunk.js",
-    "main.js.map": "/iagon/static/js/main.99f70cde.chunk.js.map",
+    "main.js": "/iagon/static/js/main.5ceebe68.chunk.js",
+    "main.js.map": "/iagon/static/js/main.5ceebe68.chunk.js.map",
     "runtime-main.js": "/iagon/static/js/runtime-main.c56f8213.js",
     "runtime-main.js.map": "/iagon/static/js/runtime-main.c56f8213.js.map",
     "static/js/2.aff22063.chunk.js": "/iagon/static/js/2.aff22063.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.c56f8213.js",
     "static/js/2.aff22063.chunk.js",
     "static/css/main.55a43b86.chunk.css",
-    "static/js/main.99f70cde.chunk.js"
+    "static/js/main.5ceebe68.chunk.js"
   ]
 }
