@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/iagon/static/css/main.55a43b86.chunk.css",
-    "main.js": "/iagon/static/js/main.5ceebe68.chunk.js",
-    "main.js.map": "/iagon/static/js/main.5ceebe68.chunk.js.map",
-    "runtime-main.js": "/iagon/static/js/runtime-main.c56f8213.js",
-    "runtime-main.js.map": "/iagon/static/js/runtime-main.c56f8213.js.map",
-    "static/js/2.aff22063.chunk.js": "/iagon/static/js/2.aff22063.chunk.js",
-    "static/js/2.aff22063.chunk.js.map": "/iagon/static/js/2.aff22063.chunk.js.map",
-    "index.html": "/iagon/index.html",
-    "static/css/main.55a43b86.chunk.css.map": "/iagon/static/css/main.55a43b86.chunk.css.map",
-    "static/js/2.aff22063.chunk.js.LICENSE.txt": "/iagon/static/js/2.aff22063.chunk.js.LICENSE.txt",
-    "static/media/close.2cdf2dd2.svg": "/iagon/static/media/close.2cdf2dd2.svg",
-    "static/media/logo.3bf627ef.svg": "/iagon/static/media/logo.3bf627ef.svg",
-    "static/media/logo.c45901b3.svg": "/iagon/static/media/logo.c45901b3.svg",
-    "static/media/proceed_arrow.800c1ae3.svg": "/iagon/static/media/proceed_arrow.800c1ae3.svg",
-    "static/media/successful.5deb6b03.png": "/iagon/static/media/successful.5deb6b03.png",
-    "static/media/unsuccessful.724d6e21.png": "/iagon/static/media/unsuccessful.724d6e21.png",
-    "static/media/wallet.35451e49.svg": "/iagon/static/media/wallet.35451e49.svg"
+    "main.css": "https://shrijana.github.io/iagon/static/css/main.55a43b86.chunk.css",
+    "main.js": "https://shrijana.github.io/iagon/static/js/main.7e02c55e.chunk.js",
+    "main.js.map": "https://shrijana.github.io/iagon/static/js/main.7e02c55e.chunk.js.map",
+    "runtime-main.js": "https://shrijana.github.io/iagon/static/js/runtime-main.7dc98217.js",
+    "runtime-main.js.map": "https://shrijana.github.io/iagon/static/js/runtime-main.7dc98217.js.map",
+    "static/js/2.e11b8ced.chunk.js": "https://shrijana.github.io/iagon/static/js/2.e11b8ced.chunk.js",
+    "static/js/2.e11b8ced.chunk.js.map": "https://shrijana.github.io/iagon/static/js/2.e11b8ced.chunk.js.map",
+    "index.html": "https://shrijana.github.io/iagon/index.html",
+    "static/css/main.55a43b86.chunk.css.map": "https://shrijana.github.io/iagon/static/css/main.55a43b86.chunk.css.map",
+    "static/js/2.e11b8ced.chunk.js.LICENSE.txt": "https://shrijana.github.io/iagon/static/js/2.e11b8ced.chunk.js.LICENSE.txt",
+    "static/media/close.2cdf2dd2.svg": "https://shrijana.github.io/iagon/static/media/close.2cdf2dd2.svg",
+    "static/media/logo.3bf627ef.svg": "https://shrijana.github.io/iagon/static/media/logo.3bf627ef.svg",
+    "static/media/logo.c45901b3.svg": "https://shrijana.github.io/iagon/static/media/logo.c45901b3.svg",
+    "static/media/proceed_arrow.800c1ae3.svg": "https://shrijana.github.io/iagon/static/media/proceed_arrow.800c1ae3.svg",
+    "static/media/successful.5deb6b03.png": "https://shrijana.github.io/iagon/static/media/successful.5deb6b03.png",
+    "static/media/unsuccessful.724d6e21.png": "https://shrijana.github.io/iagon/static/media/unsuccessful.724d6e21.png",
+    "static/media/wallet.35451e49.svg": "https://shrijana.github.io/iagon/static/media/wallet.35451e49.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c56f8213.js",
-    "static/js/2.aff22063.chunk.js",
+    "static/js/runtime-main.7dc98217.js",
+    "static/js/2.e11b8ced.chunk.js",
     "static/css/main.55a43b86.chunk.css",
-    "static/js/main.5ceebe68.chunk.js"
+    "static/js/main.7e02c55e.chunk.js"
   ]
 }
