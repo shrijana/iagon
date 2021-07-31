@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://shrijana.github.io/iagon/static/css/main.55a43b86.chunk.css",
-    "main.js": "https://shrijana.github.io/iagon/static/js/main.7e02c55e.chunk.js",
-    "main.js.map": "https://shrijana.github.io/iagon/static/js/main.7e02c55e.chunk.js.map",
+    "main.js": "https://shrijana.github.io/iagon/static/js/main.a54b8231.chunk.js",
+    "main.js.map": "https://shrijana.github.io/iagon/static/js/main.a54b8231.chunk.js.map",
     "runtime-main.js": "https://shrijana.github.io/iagon/static/js/runtime-main.7dc98217.js",
     "runtime-main.js.map": "https://shrijana.github.io/iagon/static/js/runtime-main.7dc98217.js.map",
     "static/js/2.e11b8ced.chunk.js": "https://shrijana.github.io/iagon/static/js/2.e11b8ced.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.7dc98217.js",
     "static/js/2.e11b8ced.chunk.js",
     "static/css/main.55a43b86.chunk.css",
-    "static/js/main.7e02c55e.chunk.js"
+    "static/js/main.a54b8231.chunk.js"
   ]
 }
